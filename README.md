@@ -1,3 +1,6 @@
+this py script is built on this distr
+https://code.kliu.org/misc/hashutils/
+
 
 md5rename
 
